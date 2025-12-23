@@ -2,3 +2,7 @@
 # Ruby/Bundler
 vendor/
 .bundle/
+
+# Bundler
+vendor/
+.bundle/
